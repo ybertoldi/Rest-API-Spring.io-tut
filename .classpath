@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="nonrest/src/main/java"/>
+	<classpathentry kind="src" path="nonrest/src/test/java"/>
+	<classpathentry kind="src" path="rest/src/main/java"/>
+	<classpathentry kind="src" path="rest/src/test/java"/>
+	<classpathentry kind="lib" path="nonrest/target/nonrest-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="rest/target/nonrest-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="nonrest/target/classes"/>
+</classpath>
